@@ -25,10 +25,10 @@ public class Main {
         
         itc1.start();
         itc2.start();
-        File f = new File("");
-        InputStreamReader ireader = new InputStreamReader(new FileInputStream(f));
-        BufferedReader in = new BufferedReader(ireader);
-        
-        in.read();
+//        File f = new File("/home/gourab/Documents/Documents");
+//        InputStreamReader ireader = new InputStreamReader(new FileInputStream(f));
+//        BufferedReader in = new BufferedReader(ireader);
+//        
+//        in.read();
     }
 }
