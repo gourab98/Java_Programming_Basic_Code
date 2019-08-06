@@ -1,5 +1,5 @@
 
-package test_2;
+package Test_2;
 
 
 public class Main {

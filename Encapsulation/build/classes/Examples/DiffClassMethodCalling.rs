@@ -1,2 +1,0 @@
-Examples.DiffClassMethodCalling
-Examples.Student

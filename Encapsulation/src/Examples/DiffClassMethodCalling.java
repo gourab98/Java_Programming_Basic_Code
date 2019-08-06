@@ -15,8 +15,8 @@ class Student
   }
   public int getRoll()
   {
+      return rollno;
       int rollno = 0;
-     return rollno;
   }
 }
 public class DiffClassMethodCalling {
